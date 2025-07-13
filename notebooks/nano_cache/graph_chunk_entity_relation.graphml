@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="order" attr.type="long" />
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;LA FRANCIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"La Francia is a country that formed alliances with the United Kingdom and the United States during World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;IL REGNO UNITO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Il Regno Unito is a country that allied with France and the United States during World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;LA SECONDA GUERRA MONDIALE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"La seconda guerra mondiale (World War II) was a global conflict from 1939 to 1945 involving major world powers."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;GLI STATI UNITI&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Gli Stati Uniti is a country that allied with France and the United Kingdom during World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;LA GERMANIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"La Germania is a country that opposed the Allied forces during World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;L'UNIONE SOVIETICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"L'Unione Sovietica fought alongside the Allies against Nazi Germany during World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;LE FORZE ALLEATE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Le forze alleate refers to the coalition of countries, including France, the United Kingdom, the United States, and L'Unione Sovietica, that opposed the Axis powers in World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;LA GERMANIA NAZISTA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"La Germania nazista refers to Germany under Nazi rule, led by Adolf Hitler, which was a central Axis power during World War II."</data>
+      <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <edge source="&quot;LA FRANCIA&quot;" target="&quot;IL REGNO UNITO&quot;">
+      <data key="d4">45.0</data>
+      <data key="d5">"La Francia and Il Regno Unito formed an alliance during World War II to combat shared enemies."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LA FRANCIA&quot;" target="&quot;GLI STATI UNITI&quot;">
+      <data key="d4">40.0</data>
+      <data key="d5">"La Francia and Gli Stati Uniti were allies during World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LA FRANCIA&quot;" target="&quot;LE FORZE ALLEATE&quot;">
+      <data key="d4">45.0</data>
+      <data key="d5">"La Francia was part of Le forze alleate working together against the Axis powers."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;IL REGNO UNITO&quot;" target="&quot;GLI STATI UNITI&quot;">
+      <data key="d4">40.0</data>
+      <data key="d5">"Il Regno Unito and Gli Stati Uniti were allies, collaborating during World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;IL REGNO UNITO&quot;" target="&quot;LE FORZE ALLEATE&quot;">
+      <data key="d4">45.0</data>
+      <data key="d5">"Il Regno Unito was part of Le forze alleate, collaborating with other Allied countries during World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LA SECONDA GUERRA MONDIALE&quot;" target="&quot;LA GERMANIA&quot;">
+      <data key="d4">50.0</data>
+      <data key="d5">"La Germania was a major opposing force to the Allies during World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LA SECONDA GUERRA MONDIALE&quot;" target="&quot;L'UNIONE SOVIETICA&quot;">
+      <data key="d4">45.0</data>
+      <data key="d5">"L'Unione Sovietica played a key role in the Allies' victory over Nazi Germany in World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GLI STATI UNITI&quot;" target="&quot;LE FORZE ALLEATE&quot;">
+      <data key="d4">45.0</data>
+      <data key="d5">"Gli Stati Uniti were members of Le forze alleate, contributing to the collective efforts in World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LA GERMANIA&quot;" target="&quot;L'UNIONE SOVIETICA&quot;">
+      <data key="d4">50.0</data>
+      <data key="d5">"L'Unione Sovietica combated against Nazi Germany as part of the Allied forces."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LA GERMANIA&quot;" target="&quot;LE FORZE ALLEATE&quot;">
+      <data key="d4">50.0</data>
+      <data key="d5">"Le forze alleate opposed La Germania during World War II, combating its military aggression across Europe."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;L'UNIONE SOVIETICA&quot;" target="&quot;LE FORZE ALLEATE&quot;">
+      <data key="d4">45.0</data>
+      <data key="d5">"L'Unione Sovietica joined Le forze alleate to fight against Nazi Germany and its allies during World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LE FORZE ALLEATE&quot;" target="&quot;LA GERMANIA NAZISTA&quot;">
+      <data key="d4">50.0</data>
+      <data key="d5">"Le forze alleate fought against the military forces of La Germania nazista during World War II."</data>
+      <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+  </graph>
+</graphml>
