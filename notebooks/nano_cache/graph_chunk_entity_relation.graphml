@@ -57,6 +57,240 @@
       <data key="d2">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
       <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
+    <node id="&quot;GERMANIA NAZISTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Germania nazista, guidata da Adolf Hitler, era un regime totalitario in Europa che faceva parte dell'Asse durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;ITALIA FASCISTA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Italia fascista, guidata da Benito Mussolini, era un regime totalitario in Europa membro dell'Asse nella Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;ADOLF HITLER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Adolf Hitler era il leader della Germania nazista, una figura centrale nell'Asse durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;BENITO MUSSOLINI&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Benito Mussolini era il leader dell'Italia fascista e un alleato di Adolf Hitler nell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;GIAPPONE IMPERIALE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Giappone imperiale, sotto l'imperatore Hirohito e il primo ministro Hideki Tojo, si unì all'Asse nel 1940."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;IMPERATORE HIROHITO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Imperatore Hirohito era il capo di stato del Giappone imperiale durante il suo coinvolgimento nell'Asse della Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;HIDEKI TOJO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hideki Tojo era il primo ministro del Giappone imperiale e una figura chiave nel Patto Tripartito con Germania e Italia."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;PATTO TRIPARTITO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Il Patto Tripartito del 1940 era un accordo che univa Germania, Italia e Giappone sotto l'alleanza dell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;UNIONE SOVIETICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Unione Sovietica, governata da Joseph Stalin, si unì agli Alleati dopo l'invasione tedesca nel 1941."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;OPERAZIONE BARBAROSSA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Operazione Barbarossa era l'invasione tedesca dell'Unione Sovietica nel 1941, violando il Patto Molotov-Ribbentrop."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;REGNO UNITO&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Regno Unito, guidato da Winston Churchill, era una delle principali potenze degli Alleati nella Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;WINSTON CHURCHILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Winston Churchill era il primo ministro del Regno Unito e uno dei leader principali degli Alleati."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;FRANCIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Francia, sotto il presidente Albert Lebrun, dichiarò guerra alla Germania nel 1939 diventando un membro degli Alleati."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;ALBERT LEBRUN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Albert Lebrun era il presidente della Francia quando dichiarò guerra alla Germania nazista nel 1939."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;STATI UNITI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Stati Uniti, guidati dal presidente Franklin D. Roosevelt, si unirono agli Alleati nel 1941 dopo l'attacco a Pearl Harbor."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;FRANKLIN D. ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Franklin D. Roosevelt era il presidente degli Stati Uniti che guidò il paese nel conflitto globale al fianco degli Alleati."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;JOSEPH STALIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Stalin era il leader dell'Unione Sovietica e un membro dei Tre Grandi leader degli Alleati."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CINA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Cina, guidata da Chiang Kai-shek, era in guerra con il Giappone dal 1937 e formalmente si alleò con gli Alleati nel 1941."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CHIANG KAI-SHEK&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Chiang Kai-shek era il leader della Cina durante la Seconda Guerra Mondiale e un alleato contro il Giappone."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CONFERENZA DI TEHERAN&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Conferenza di Teheran del 1943 fu il primo incontro tra i Tre Grandi leader alleati per pianificare la strategia bellica."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CONFERENZA DI YALTA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"La Conferenza di Yalta nel 1945 tra Roosevelt, Churchill e Stalin determinò la divisione dell'Europa post-bellica."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CONFERENZA DI POTSDAM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"La Conferenza di Potsdam del 1945 confermò le decisioni di Yalta e stabilì i termini per la resa del Giappone."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;RESA DELLA GERMANIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"La resa della Germania nel maggio 1945 segnò la fine della Seconda Guerra Mondiale in Europa."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;RESA DEL GIAPPONE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"La resa del Giappone nel settembre 1945 terminò la Seconda Guerra Mondiale nel Pacifico."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;BOMBARDAMENTI DI HIROSHIMA E NAGASAKI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"I bombardamenti atomici di Hiroshima e Nagasaki portarono alla resa del Giappone nel 1945."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;INVASIONE SOVIETICA DELLA MANCIURIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"L'invasione sovietica della Manciuria fu un'operazione militare nel 1945 contribuente alla resa giapponese."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;ROMANIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Romania, sotto la guida di Ion Antonescu, si alleò con le Potenze dell'Asse durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;ION ANTONESCU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ion Antonescu era il leader della Romania e sostenitore dell'Asse nella Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;UNGHERIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Ungheria, guidata da Miklós Horthy, si allineò con le Potenze dell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;MIKLÓS HORTHY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Miklós Horthy era il leader dell'Ungheria, alleata dell'Asse nella Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;BULGARIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Bulgaria, sotto la guida di Boris III, era alleata con le Potenze dell'Asse durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;BORIS III&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Boris III era il sovrano della Bulgaria durante la sua alleanza con le forze dell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CROAZIA INDIPENDENTE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"La Croazia indipendente, guidata da Ante Pavelić, era alleata con le Potenze dell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;ANTE PAVELIĆ&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ante Pavelić era il leader della Croazia indipendente, allineata con l'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;FINLANDIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Finlandia combatté contro l'Unione Sovietica al fianco della Germania nazista durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;PATTO MOLOTOV-RIBBENTROP&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Il Patto Molotov-Ribbentrop era un accordo di non aggressione fra Germania nazista e Unione Sovietica, con una clausola segreta sulla Polonia."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;PEARL HARBOR&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Pearl Harbor è stato il sito dell'attacco giapponese nel 1941 che portò gli Stati Uniti a entrare nella Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;INVASIONE DELLA POLONIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"L'invasione della Polonia nel 1939 da parte della Germania nazista scatenò l'inizio della Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+    </node>
+    <node id="&quot;CANADA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Canada si schierò con gli Alleati, partecipando agli sforzi di guerra contro le forze dell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;AUSTRALIA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Australia, membro del Commonwealth britannico, si schierò con gli Alleati durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;NUOVA ZELANDA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nuova Zelanda, membro del Commonwealth britannico, era alleata degli sforzi degli Alleati."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;INDIA BRITANNICA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"India britannica contribuì significativamente alle forze alleate durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;BRASILE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Brasile si unì agli Alleati nella lotta contro le forze dell'Asse."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;PAESI DELL'AMERICA LATINA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Molti paesi dell'America Latina supportarono gli Alleati durante la Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;JAPAN&quot;">
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"L'attacco giapponese a Pearl Harbor provocò l'entrata degli Stati Uniti nella Seconda Guerra Mondiale."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
     <edge source="&quot;LA FRANCIA&quot;" target="&quot;IL REGNO UNITO&quot;">
       <data key="d4">45.0</data>
       <data key="d5">"La Francia and Il Regno Unito formed an alliance during World War II to combat shared enemies."</data>
@@ -127,6 +361,108 @@
       <data key="d4">50.0</data>
       <data key="d5">"Le forze alleate fought against the military forces of La Germania nazista during World War II."</data>
       <data key="d6">chunk-67162cadb34748fdcc9db15f5b283c0b</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;ITALIA FASCISTA&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Germania nazista e Italia fascista formarono l'Asse Roma-Berlino nel 1936 aumentando la loro collaborazione militare e politica."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;GIAPPONE IMPERIALE&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Giappone imperiale si unì alla Germania nazista nell'Asse tramite il Patto Tripartito nel 1940 per coordinare le operazioni militari."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;UNIONE SOVIETICA&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"La Germania nazista inizialmente firmò un patto di non aggressione con l'Unione Sovietica, ma lo violò con l'invasione del 1941."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;ROMANIA&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Romania si schierò con la Germania nazista come parte delle forze dell'Asse, compiendo operazioni militari congiunte."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGNO UNITO&quot;" target="&quot;STATI UNITI&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"Regno Unito e Stati Uniti collaborarono strettamente come membri principali degli Alleati durante la guerra."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGNO UNITO&quot;" target="&quot;FRANCIA&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Regno Unito e Francia dichiararono guerra alla Germania nel 1939 e collaborarono contro l'Asse come Alleati."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGNO UNITO&quot;" target="&quot;CANADA&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Canada, come parte del Commonwealth, cooperò strettamente con il Regno Unito nelle operazioni degli Alleati."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGNO UNITO&quot;" target="&quot;AUSTRALIA&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Australia, essendo parte del Commonwealth britannico, supportò il Regno Unito e gli Alleati nella guerra."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGNO UNITO&quot;" target="&quot;NUOVA ZELANDA&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Nuova Zelanda, come membro del Commonwealth, collaborò con il Regno Unito come parte degli Alleati."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGNO UNITO&quot;" target="&quot;INDIA BRITANNICA&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"India britannica, sotto il dominio del Regno Unito, fornì supporto significativo agli sforzi degli Alleati."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WINSTON CHURCHILL&quot;" target="&quot;JOSEPH STALIN&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Joseph Stalin e Winston Churchill furono centrali nel coordinamento degli Alleati, principalmente incontrandosi alle conferenze di Teheran e Yalta."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;STATI UNITI&quot;" target="&quot;BRASILE&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Brasile collaborò con gli Stati Uniti come parte delle forze alleate durante la guerra."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;STATI UNITI&quot;" target="&quot;PAESI DELL'AMERICA LATINA&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Molti paesi dell'America Latina collaborarono con gli Stati Uniti nel sostegno degli sforzi alleati durante la Seconda Guerra Mondiale."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;FRANKLIN D. ROOSEVELT&quot;" target="&quot;CONFERENZA DI TEHERAN&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Franklin D. Roosevelt partecipò alla Conferenza di Teheran del 1943 per discutere la strategia degli Alleati."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CONFERENZA DI YALTA&quot;" target="&quot;CONFERENZA DI POTSDAM&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Potsdam seguì Yalta confermando decisioni cruciali per l'ordine post-bellico europeo e la resa del Giappone."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;RESA DELLA GERMANIA&quot;" target="&quot;RESA DEL GIAPPONE&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Le rese della Germania e del Giappone nel 1945 segnarono rispettivamente le conclusioni delle ostilità in Europa e nel Pacifico."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PEARL HARBOR&quot;" target="&quot;JAPAN&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"L'attacco giapponese a Pearl Harbor provocò l'entrata degli Stati Uniti nella Seconda Guerra Mondiale."</data>
+      <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
       <data key="d7">1</data>
     </edge>
   </graph>
