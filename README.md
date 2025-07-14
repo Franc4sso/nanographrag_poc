@@ -3,14 +3,16 @@
 ## 🎯 Panoramica del Progetto
 
 **Nano-GraphRAG** è un'implementazione semplificata di GraphRAG (Graph-based Retrieval-Augmented Generation) che combina:
+
 - **Estrazione di entità e relazioni** dal testo
-- **Creazione di grafi di conoscenza** 
+- **Creazione di grafi di conoscenza**
 - **Query intelligenti** basate su grafi
 - **Integrazione con database di grafi** (Memgraph)
 
 ## 🚀 Setup Iniziale
 
 ### 1. Prerequisiti
+
 ```bash
 # Verifica che Docker sia installato
 docker --version
@@ -20,6 +22,7 @@ python3 --version
 ```
 
 ### 2. Clonazione e Setup
+
 ```bash
 # Clona il repository
 git clone <repository-url>
@@ -35,6 +38,7 @@ pip install -e .
 ```
 
 ### 3. Dipendenze Aggiuntive
+
 ```bash
 # Per i notebook
 pip install notebook
@@ -49,6 +53,7 @@ pip install transformers
 ## 🐳 Setup Docker e Memgraph
 
 ### 1. Avvia Memgraph
+
 ```bash
 # Avvia il container Memgraph
 docker compose up -d
@@ -58,12 +63,14 @@ docker ps
 ```
 
 ### 2. Verifica Connessione
+
 - **Memgraph Lab**: http://localhost:3000
 - **Porta Bolt**: localhost:7687
 
 ## 📝 Preparazione Dati
 
 ### 1. Crea il File di Testo
+
 Crea `data/alleanze.txt` con il tuo contenuto:
 
 ```txt
@@ -76,6 +83,7 @@ La Germania nazista, guidata da Adolf Hitler, e l'Italia fascista, sotto Benito 
 ```
 
 ### 2. Struttura Directory
+
 ```
 nanographrag_poc/
 ├── data/
@@ -89,11 +97,13 @@ nanographrag_poc/
 ## 🔑 Configurazione API OpenAI
 
 ### 1. Ottieni Chiave API
+
 - Vai su [OpenAI Platform](https://platform.openai.com/account/api-keys)
 - Crea una nuova chiave API
 - Copia la chiave (inizia con `sk-`)
 
 ### 2. Imposta la Chiave nel Notebook
+
 Nel notebook `my_poc_memgraph.ipynb`, modifica:
 
 ```python
@@ -104,6 +114,7 @@ os.environ["OPENAI_API_KEY"] = "sk-tua-chiave-reale-qui"
 ## 📊 Esecuzione del Flusso Completo
 
 ### 1. Avvia Jupyter (Opzionale)
+
 ```bash
 # Se vuoi usare Jupyter web
 jupyter notebook --no-browser --port=8888 --ip=0.0.0.0
@@ -111,9 +122,11 @@ jupyter notebook --no-browser --port=8888 --ip=0.0.0.0
 ```
 
 ### 2. Esegui il Notebook
+
 Apri `notebooks/my_poc_memgraph.ipynb` nel tuo IDE e esegui le celle in ordine:
 
 #### Cella 1: Setup e Inserimento Dati
+
 ```python
 import os
 import asyncio
@@ -149,6 +162,7 @@ for u, v, data in G.edges(data=True):
 ```
 
 #### Cella 2: Inserimento in Memgraph
+
 ```python
 from neo4j import GraphDatabase
 import networkx as nx
@@ -181,6 +195,7 @@ print("✅ Triplette inserite in Memgraph.")
 ```
 
 #### Cella 3: Query con OpenAI
+
 ```python
 from neo4j import GraphDatabase
 from openai import OpenAI
@@ -198,11 +213,11 @@ driver = GraphDatabase.driver("bolt://localhost:7687", auth=("", ""))
 # ✅ Query per ottenere i dati
 with driver.session() as session:
     result = session.run("""
-        MATCH (a)-[r]->(b) 
+        MATCH (a)-[r]->(b)
         RETURN a.name, r.description, b.name
     """)
-    
-    context = "\n".join([f"{record['a.name']} {record['r.description']} {record['b.name']}" 
+
+    context = "\n".join([f"{record['a.name']} {record['r.description']} {record['b.name']}"
                         for record in result])
 
 driver.close()
@@ -223,6 +238,7 @@ print(response.choices[0].message.content)
 ## 🔍 Visualizzazione del Grafo
 
 ### 1. Memgraph Lab (Interfaccia Web)
+
 - **URL**: http://localhost:3000
 - **Funzionalità**: Visualizzazione interattiva del grafo
 
@@ -239,21 +255,31 @@ print(response.choices[0].message.content)
 #### Query Base (Sempre Funzionanti)
 
 **Conta i nodi**
+
 ```cypher
 MATCH (n) RETURN count(n) as numero_nodi
 ```
 
 **Vedi tutte le entità**
+
 ```cypher
 MATCH (n:Entity) RETURN n.name
 ```
 
+**Vedi tutte le entità, versione Grafo**
+
+```cypher
+MATCH (n:Entity) RETURN n
+```
+
 **Vedi tutte le relazioni**
+
 ```cypher
 MATCH ()-[r:RELATION]->() RETURN r.description
 ```
 
 **Vedi il grafo completo**
+
 ```cypher
 MATCH (a)-[r]->(b) RETURN a, r, b
 ```
@@ -261,26 +287,30 @@ MATCH (a)-[r]->(b) RETURN a, r, b
 #### Query di Ricerca
 
 **Cerca entità contenenti "Germania"**
+
 ```cypher
-MATCH (n:Entity) 
-WHERE n.name CONTAINS "Germania" 
+MATCH (n:Entity)
+WHERE n.name CONTAINS "Germania"
 RETURN n.name
 ```
 
 **Vedi entità e relazioni specifiche**
+
 ```cypher
-MATCH (a:Entity)-[r:RELATION]->(b:Entity) 
+MATCH (a:Entity)-[r:RELATION]->(b:Entity)
 RETURN a.name, r.description, b.name
 ```
 
 **Cerca entità con relazioni specifiche**
+
 ```cypher
-MATCH (a:Entity)-[r:RELATION]->(b:Entity) 
+MATCH (a:Entity)-[r:RELATION]->(b:Entity)
 WHERE a.name CONTAINS "Germania" OR b.name CONTAINS "Germania"
 RETURN a.name, r.description, b.name
 ```
 
 ### 4. Query da Python
+
 ```python
 from neo4j import GraphDatabase
 
@@ -301,36 +331,38 @@ with driver.session() as session:
 driver.close()
 ```
 
-
-
 ## 🔍 Esempi di Query Avanzate
 
 ### Query per Analisi Specifiche
 
 **Trova tutti i leader**
+
 ```cypher
-MATCH (a:Entity)-[r:RELATION]->(b:Entity) 
+MATCH (a:Entity)-[r:RELATION]->(b:Entity)
 WHERE r.description CONTAINS "guidato" OR r.description CONTAINS "leader"
 RETURN a.name, r.description, b.name
 ```
 
 **Trova alleanze specifiche**
+
 ```cypher
-MATCH (a:Entity)-[r:RELATION]->(b:Entity) 
+MATCH (a:Entity)-[r:RELATION]->(b:Entity)
 WHERE r.description CONTAINS "alleato" OR r.description CONTAINS "alleanza"
 RETURN a.name, r.description, b.name
 ```
 
 **Trova eventi per anno**
+
 ```cypher
-MATCH (a:Entity)-[r:RELATION]->(b:Entity) 
+MATCH (a:Entity)-[r:RELATION]->(b:Entity)
 WHERE b.name CONTAINS "1936" OR b.name CONTAINS "1940" OR b.name CONTAINS "1941"
 RETURN a.name, r.description, b.name
 ```
 
 **Conta le relazioni**
+
 ```cypher
-MATCH ()-[r:RELATION]->() 
+MATCH ()-[r:RELATION]->()
 RETURN count(r) as numero_relazioni
 ```
 

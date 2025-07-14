@@ -59,28 +59,33 @@
     </node>
     <node id="&quot;GERMANIA NAZISTA&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Germania nazista, guidata da Adolf Hitler, era un regime totalitario in Europa che faceva parte dell'Asse durante la Seconda Guerra Mondiale."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"Germania nazista, guidata da Adolf Hitler, era un regime totalitario in Europa che faceva parte dell'Asse durante la Seconda Guerra Mondiale."&lt;SEP&gt;"Nazi Germany, led by Adolf Hitler, was a principal member of the Axis powers during World War II."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
     <node id="&quot;ITALIA FASCISTA&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Italia fascista, guidata da Benito Mussolini, era un regime totalitario in Europa membro dell'Asse nella Seconda Guerra Mondiale."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"Fascist Italy, initially led by Benito Mussolini, was part of the Axis until switching allegiance to the Allies in 1943 after an armistice."&lt;SEP&gt;"Italia fascista, guidata da Benito Mussolini, era un regime totalitario in Europa membro dell'Asse nella Seconda Guerra Mondiale."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
     <node id="&quot;ADOLF HITLER&quot;">
       <data key="d0">"PERSON"</data>
-      <data key="d1">"Adolf Hitler era il leader della Germania nazista, una figura centrale nell'Asse durante la Seconda Guerra Mondiale."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"Adolf Hitler era il leader della Germania nazista, una figura centrale nell'Asse durante la Seconda Guerra Mondiale."&lt;SEP&gt;"Adolf Hitler was the leader of Nazi Germany and a key figure in the Axis alliance during World War II."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
     <node id="&quot;BENITO MUSSOLINI&quot;">
       <data key="d0">"PERSON"</data>
-      <data key="d1">"Benito Mussolini era il leader dell'Italia fascista e un alleato di Adolf Hitler nell'Asse."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"Benito Mussolini era il leader dell'Italia fascista e un alleato di Adolf Hitler nell'Asse."&lt;SEP&gt;"Benito Mussolini was the leader of Fascist Italy and a principal figure in the Axis alliance until 1943."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
     <node id="&quot;GIAPPONE IMPERIALE&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Giappone imperiale, sotto l'imperatore Hirohito e il primo ministro Hideki Tojo, si unì all'Asse nel 1940."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"Giappone imperiale, sotto l'imperatore Hirohito e il primo ministro Hideki Tojo, si unì all'Asse nel 1940."&lt;SEP&gt;"Imperial Japan, under Emperor Hirohito, was a major Axis power during World War II, seeking territorial expansion in Asia."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
     </node>
     <node id="&quot;IMPERATORE HIROHITO&quot;">
       <data key="d0">"PERSON"</data>
@@ -94,13 +99,15 @@
     </node>
     <node id="&quot;PATTO TRIPARTITO&quot;">
       <data key="d0">"EVENT"</data>
-      <data key="d1">"Il Patto Tripartito del 1940 era un accordo che univa Germania, Italia e Giappone sotto l'alleanza dell'Asse."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"Il Patto Tripartito del 1940 era un accordo che univa Germania, Italia e Giappone sotto l'alleanza dell'Asse."&lt;SEP&gt;"The Tripartite Pact was an agreement signed in 1940 between Germany, Italy, and Japan, formalizing their military alliance."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
     </node>
     <node id="&quot;UNIONE SOVIETICA&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Unione Sovietica, governata da Joseph Stalin, si unì agli Alleati dopo l'invasione tedesca nel 1941."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"The Soviet Union joined the Allies in 1941 after being invaded by Nazi Germany."&lt;SEP&gt;"Unione Sovietica, governata da Joseph Stalin, si unì agli Alleati dopo l'invasione tedesca nel 1941."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
     <node id="&quot;OPERAZIONE BARBAROSSA&quot;">
       <data key="d0">"EVENT"</data>
@@ -111,7 +118,7 @@
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Regno Unito, guidato da Winston Churchill, era una delle principali potenze degli Alleati nella Seconda Guerra Mondiale."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
     </node>
     <node id="&quot;WINSTON CHURCHILL&quot;">
       <data key="d0">"PERSON"</data>
@@ -120,9 +127,9 @@
     </node>
     <node id="&quot;FRANCIA&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Francia, sotto il presidente Albert Lebrun, dichiarò guerra alla Germania nel 1939 diventando un membro degli Alleati."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+      <data key="d1">"France was initially occupied by Axis powers but continued to combat them with the Free French Forces led by Charles de Gaulle."&lt;SEP&gt;"Francia, sotto il presidente Albert Lebrun, dichiarò guerra alla Germania nel 1939 diventando un membro degli Alleati."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
     </node>
     <node id="&quot;ALBERT LEBRUN&quot;">
       <data key="d0">"PERSON"</data>
@@ -131,9 +138,9 @@
     </node>
     <node id="&quot;STATI UNITI&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Stati Uniti, guidati dal presidente Franklin D. Roosevelt, si unirono agli Alleati nel 1941 dopo l'attacco a Pearl Harbor."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+      <data key="d1">"Stati Uniti, guidati dal presidente Franklin D. Roosevelt, si unirono agli Alleati nel 1941 dopo l'attacco a Pearl Harbor."&lt;SEP&gt;"The United States joined the Allies in 1941 following the Japanese attack on Pearl Harbor."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
     </node>
     <node id="&quot;FRANKLIN D. ROOSEVELT&quot;">
       <data key="d0">"PERSON"</data>
@@ -147,8 +154,9 @@
     </node>
     <node id="&quot;CINA&quot;">
       <data key="d0">"ORGANIZATION"</data>
-      <data key="d1">"Cina, guidata da Chiang Kai-shek, era in guerra con il Giappone dal 1937 e formalmente si alleò con gli Alleati nel 1941."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d1">"China, which had been at war with Japan since 1937, was a significant member of the Allied powers."&lt;SEP&gt;"Cina, guidata da Chiang Kai-shek, era in guerra con il Giappone dal 1937 e formalmente si alleò con gli Alleati nel 1941."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
     </node>
     <node id="&quot;CHIANG KAI-SHEK&quot;">
       <data key="d0">"PERSON"</data>
@@ -194,6 +202,7 @@
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Romania, sotto la guida di Ion Antonescu, si alleò con le Potenze dell'Asse durante la Seconda Guerra Mondiale."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
     </node>
     <node id="&quot;ION ANTONESCU&quot;">
       <data key="d0">"PERSON"</data>
@@ -241,9 +250,10 @@
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
     </node>
     <node id="&quot;PEARL HARBOR&quot;">
-      <data key="d0">"GEO"</data>
-      <data key="d1">"Pearl Harbor è stato il sito dell'attacco giapponese nel 1941 che portò gli Stati Uniti a entrare nella Seconda Guerra Mondiale."</data>
-      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pearl Harbor è stato il sito dell'attacco giapponese nel 1941 che portò gli Stati Uniti a entrare nella Seconda Guerra Mondiale."&lt;SEP&gt;"The attack on Pearl Harbor by Japan in 1941 led to the United States entering World War II as part of the Allied powers."</data>
+      <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1&lt;SEP&gt;chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
     </node>
     <node id="&quot;INVASIONE DELLA POLONIA&quot;">
       <data key="d0">"EVENT"</data>
@@ -254,42 +264,153 @@
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Canada si schierò con gli Alleati, partecipando agli sforzi di guerra contro le forze dell'Asse."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
     </node>
     <node id="&quot;AUSTRALIA&quot;">
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Australia, membro del Commonwealth britannico, si schierò con gli Alleati durante la Seconda Guerra Mondiale."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
     </node>
     <node id="&quot;NUOVA ZELANDA&quot;">
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Nuova Zelanda, membro del Commonwealth britannico, era alleata degli sforzi degli Alleati."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
     </node>
     <node id="&quot;INDIA BRITANNICA&quot;">
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"India britannica contribuì significativamente alle forze alleate durante la Seconda Guerra Mondiale."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
     </node>
     <node id="&quot;BRASILE&quot;">
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Brasile si unì agli Alleati nella lotta contro le forze dell'Asse."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
     </node>
     <node id="&quot;PAESI DELL'AMERICA LATINA&quot;">
       <data key="d0">"ORGANIZATION"</data>
       <data key="d1">"Molti paesi dell'America Latina supportarono gli Alleati durante la Seconda Guerra Mondiale."</data>
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
-      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
     </node>
     <node id="&quot;JAPAN&quot;">
       <data key="d2">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
       <data key="d1">"L'attacco giapponese a Pearl Harbor provocò l'entrata degli Stati Uniti nella Seconda Guerra Mondiale."</data>
       <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 3}]</data>
+    </node>
+    <node id="&quot;SECONDA GUERRA MONDIALE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Second World War, lasting from 1939 to 1945, was a global conflict involving most of the world's nations divided into two main opposing military alliances: the Axis and the Allies."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;ASSE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Axis was a military and political alliance during World War II, primarily consisting of Nazi Germany, Fascist Italy, and Imperial Japan, aiming to expand territorial control and overthrow the existing international order."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;HIROHITO&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Hirohito was the Emperor of Japan during World War II and played a ceremonial role in the nation's participation in the Axis alliance."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;PATTO D’ACCIAIO&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Pact of Steel was an agreement between Nazi Germany and Fascist Italy in 1939, strengthening their alliance through military cooperation."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;ALLEATI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Allies were the coalition opposing the Axis, including major powers like the United Kingdom, Soviet Union, United States, China, and Free France."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;REGNO UNITO E COMMONWEALTH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The United Kingdom and its Commonwealth nations were key members of the Allied powers fighting against the Axis."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;FORZE DELLA FRANCIA LIBERA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Free French Forces, led by Charles de Gaulle, continued to fight against the Axis powers despite the occupation of France."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;CHARLES DE GAULLE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Charles de Gaulle was the leader of the Free French Forces, continuing the fight against the Axis after France's occupation."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;GRANDE ALLEANZA&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Grand Alliance was the unified effort of the Allies, including countries like the USA and USSR, to defeat the Axis despite their political differences."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;ROOSEVELT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Franklin D. Roosevelt was the President of the United States and a key leader in planning joint Allied operations."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;CHURCHILL&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Winston Churchill was the Prime Minister of the United Kingdom and instrumental in Allied strategic planning during World War II."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;STALIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joseph Stalin was the leader of the Soviet Union and a crucial figure in the Allied military strategy and operations."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;SBARCO IN NORMANDIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Normandy Invasion, also known as D-Day, was a significant Allied operation that marked the beginning of the liberation of Western Europe from Nazi occupation."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;V-E DAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Victory in Europe Day, celebrated on May 8, 1945, marked the official surrender of Nazi Germany and the end of World War II in Europe."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;ARRESE DELLA GERMANIA&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The surrender of Germany on May 8, 1945, marked the end of World War II in Europe, known as V-E Day."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;ARRESE DEL GIAPPONE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The surrender of Japan on September 2, 1945, followed the atomic bombings of Hiroshima and Nagasaki and the Soviet Union's entry into the war on the Eastern front, marking the end of World War II."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;ESPANSIONISMO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The concept of expansionism refers to the Axis powers' aim to extend their territorial domains and influence during World War II."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;CONFERENZE TRA I LEADER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Conferences between leaders such as Roosevelt, Churchill, and Stalin were crucial in planning joint military operations and strategies for the Allies."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+    </node>
+    <node id="&quot;ARMISTIZIO DEL 1943&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Armistice of 1943 refers to the agreement in which Fascist Italy switched allegiance from the Axis powers to join the Allies during World War II."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;NORMANDIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Normandy is a geographical region in France where the Allied D-Day invasion occurred, marking a significant turning point in World War II."</data>
+      <data key="d2">chunk-de23ec48948790ba48f1bb5d5b944695</data>
     </node>
     <edge source="&quot;LA FRANCIA&quot;" target="&quot;IL REGNO UNITO&quot;">
       <data key="d4">45.0</data>
@@ -387,6 +508,60 @@
       <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
       <data key="d7">1</data>
     </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;ADOLF HITLER&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Adolf Hitler was the leader of Nazi Germany and orchestrated its activities in World War II."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;PATTO D’ACCIAIO&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Pact of Steel was a military alliance agreement that strengthened the relationship between Nazi Germany and Fascist Italy."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GERMANIA NAZISTA&quot;" target="&quot;ARRESE DELLA GERMANIA&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"Nazi Germany's surrender marked the end of World War II in Europe."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ITALIA FASCISTA&quot;" target="&quot;BENITO MUSSOLINI&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Benito Mussolini was the leader of Fascist Italy and played a significant role in the Axis powers.</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ITALIA FASCISTA&quot;" target="&quot;ARMISTIZIO DEL 1943&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Armistice of 1943 marked the transition of Italy from the Axis to the Allies."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GIAPPONE IMPERIALE&quot;" target="&quot;HIROHITO&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Hirohito was the Emperor of Japan during World War II, overseeing the country's involvement in the Axis alliance."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GIAPPONE IMPERIALE&quot;" target="&quot;PATTO TRIPARTITO&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Tripartite Pact included Imperial Japan as a major signatory, alongside Germany and Italy."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GIAPPONE IMPERIALE&quot;" target="&quot;ARRESE DEL GIAPPONE&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The surrender of Imperial Japan marked the end of World War II globally."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;UNIONE SOVIETICA&quot;" target="&quot;ALLEATI&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Soviet Union joined the Allies in opposing the Axis following Germany's invasion in 1941."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
     <edge source="&quot;REGNO UNITO&quot;" target="&quot;STATI UNITI&quot;">
       <data key="d4">20.0</data>
       <data key="d5">"Regno Unito e Stati Uniti collaborarono strettamente come membri principali degli Alleati durante la guerra."</data>
@@ -441,10 +616,28 @@
       <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
       <data key="d7">1</data>
     </edge>
+    <edge source="&quot;STATI UNITI&quot;" target="&quot;ALLEATI&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The United States became a key member of the Allies after joining the war in 1941."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;STATI UNITI&quot;" target="&quot;PEARL HARBOR&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The attack on Pearl Harbor was a pivotal event that brought the United States into World War II as part of the Allies."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
     <edge source="&quot;FRANKLIN D. ROOSEVELT&quot;" target="&quot;CONFERENZA DI TEHERAN&quot;">
       <data key="d4">14.0</data>
       <data key="d5">"Franklin D. Roosevelt partecipò alla Conferenza di Teheran del 1943 per discutere la strategia degli Alleati."</data>
       <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CINA&quot;" target="&quot;ALLEATI&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"China was a significant participant in the Allies, having been in conflict with Japan since before the full outbreak of World War II."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
       <data key="d7">1</data>
     </edge>
     <edge source="&quot;CONFERENZA DI YALTA&quot;" target="&quot;CONFERENZA DI POTSDAM&quot;">
@@ -463,6 +656,54 @@
       <data key="d4">18.0</data>
       <data key="d5">"L'attacco giapponese a Pearl Harbor provocò l'entrata degli Stati Uniti nella Seconda Guerra Mondiale."</data>
       <data key="d6">chunk-9839046c662763f3ca85d5b828a2b6c1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SECONDA GUERRA MONDIALE&quot;" target="&quot;ASSE&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The Axis powers were one of the primary alliances in the Second World War."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SECONDA GUERRA MONDIALE&quot;" target="&quot;ALLEATI&quot;">
+      <data key="d4">10.0</data>
+      <data key="d5">"The Allies formed the opposing coalition against the Axis during the Second World War."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ALLEATI&quot;" target="&quot;REGNO UNITO E COMMONWEALTH&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The United Kingdom and its Commonwealth were among the principal members of the Allied powers fighting against the Axis."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ALLEATI&quot;" target="&quot;FORZE DELLA FRANCIA LIBERA&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Free French Forces were part of the Allied efforts to fight against the Axis powers."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ROOSEVELT&quot;" target="&quot;CHURCHILL&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Franklin D. Roosevelt and Winston Churchill collaborated closely on Allied strategies during World War II."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ROOSEVELT&quot;" target="&quot;STALIN&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Roosevelt and Stalin were key figures in Allied strategic planning and conference discussions."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CHURCHILL&quot;" target="&quot;STALIN&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Winston Churchill and Joseph Stalin worked together in strategic meetings and operations during the war."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SBARCO IN NORMANDIA&quot;" target="&quot;NORMANDIA&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Normandy region was the location of the significant Allied D-Day invasion."</data>
+      <data key="d6">chunk-de23ec48948790ba48f1bb5d5b944695</data>
       <data key="d7">1</data>
     </edge>
   </graph>
